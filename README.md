@@ -6,7 +6,7 @@ I’m a data science student from Malaysia, studying at MMU in Cyberjaya.<br><br
 | Repository | Description |
 | :-- | :-- |
 | [FriendsGPT](https://github.com/faris-jpg/friendsgpt) | Transformer-based language model built from scratch and trained on *Friends* TV scripts for conversational AI. |
-| [Tree Cover Loss Dashboard](https://github.com/faris-jpg/tree-cover-loss) | Interactive D3.js dashboard visualizing global tree cover loss with choropleth maps, treemaps, and trend charts. |
+| [Tree Cover Loss Dashboard](https://github.com/faris-jpg/tree_cover_loss) | Interactive D3.js dashboard visualizing global tree cover loss with choropleth maps, treemaps, and trend charts. |
 | [Sentiment Analysis: VADER vs RoBERTa](https://github.com/faris-jpg/vader_vs_roberta) | Comparative sentiment analysis tool using VADER and RoBERTa to explore tone detection in text (NLP-focused). |
 | [Movie Recommendation System](https://github.com/faris-jpg) | Collaborative filtering recommender system using ALS in PySpark with performance visualization. |
 
