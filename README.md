@@ -11,7 +11,7 @@ I’m a data science student from Malaysia, studying at MMU in Cyberjaya.<br><br
 | [Movie Recommendation System](https://github.com/faris-jpg) | Collaborative filtering recommender system using ALS in PySpark with performance visualization. |
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faris-imran-faisal) 
 
 # 💻 Tech Stack:
